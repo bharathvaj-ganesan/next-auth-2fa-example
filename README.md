@@ -1,11 +1,17 @@
-# ![alt text](https://github.githubassets.com/images/icons/emoji/unicode/1f510.png) next-auth-credentials
+# ![alt text](https://github.githubassets.com/images/icons/emoji/unicode/1f510.png) next-auth-2fa-example
 
-Example showing a custom sign-in page using NextAuth.js with credentials. Feel free to use it as you want.
+Example showing a custom sign-in page using NextAuth.js with Two Factor Authentication using [TOTP algorithm](https://en.wikipedia.org/wiki/Time-based_one-time_password).
 
-## ![alt text](https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png) ScreenShot
+## Features
 
-![Screenshot 1](https://i.imgur.com/4LZf4UP.png)
-![Screenshot 1](https://i.imgur.com/i9FiQvo.png)
+- Users can manage 2FA
+- Enforce 2FA during login
+- First class integration with NextAuth.js
+
+![Screenshot 1](./media/screenshot1.png)
+![Screenshot 2](./media/screenshot2.png)
+![Screenshot 3](./media/screenshot3.png)
+![Screenshot 4](./media/screenshot4.png)
 
 ## 🚀 Getting Started
 
